@@ -21,9 +21,9 @@ I'm an ex-startup growth, and jack-of-all-trades guy moving into the field of op
 
 ## 💼 Work Experience:
 - **Marketing Specialist at  Wynter (2021 - 2024)**
-  - Just the official title. In reality, the jack of all trades. This was a proper startup, so I dabbled in every role helping the company to win. 
+  - Just the official title. In reality, the jack of all trades. This was a proper startup, so I dabbled in every role to help the company win. 
   - In marketing, raised awareness about the company and drove pipeline and revenue. I closed some deals on my own as well
-  - Company-wide ops and tech support - setting up business tech(CRMs, analytics, project management) and using them or helping others use them.
+  - Company-wide ops and tech support - setting up, optimizing and using business tech(CRMs, analytics, project management) or helping others use them.
   - Helped to improve the product, company, and value offering. 
 
 - **Freelance marketing consultant (2018 - 2021)**
