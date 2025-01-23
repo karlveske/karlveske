@@ -9,7 +9,7 @@ I'm an ex-startup growth, and jack-of-all-trades guy moving into the field of op
 
 ## 🔧 Technologies & Tools:
 - **Languages:** Python
-- **Web Development:** HTML, CSS,
+- **Web Development:** HTML, CSS, Javascript
 - **Databases:** Postgres, Bigquery
 - **DevOps:** Docker
 - **Version Control:** Git, GitHub
