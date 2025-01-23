@@ -17,7 +17,7 @@ I'm an ex-startup growth, and jack-of-all-trades guy moving into the field of op
 
 ## 🌱 Currently Obsessed with:
 - Data and Information Systems
-- Using systems and data to build better businesses and improve operations. 
+- Using systems and data to build better businesses and improve their value and operations. 
 
 ## 💼 Work Experience:
 - **Marketing Specialist at  Wynter (2021 - 2024)**
