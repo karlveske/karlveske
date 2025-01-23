@@ -3,7 +3,7 @@
 I'm an ex-startup growth, and jack-of-all-trades guy moving into the field of ops, data, and business systems.  
 
 ## 📫 How to reach me:
-- Email: [Email]karlveskeatgmail.com
+- Email: [Email](karlveske@gmail.com)
 - LinkedIn: [Karl Veske](https://www.linkedin.com/in/karl-christofer-veske/)
 - Twitter: [@karlveske](https://twitter.com/kcveske)
 
