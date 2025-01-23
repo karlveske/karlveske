@@ -8,7 +8,7 @@ I'm an ex-startup growth, and jack-of-all-trades guy moving into the field of op
 - Twitter: [@karlveske](https://twitter.com/kcveske)
 
 ## 🔧 Technologies & Tools:
-- **Languages:** Python
+- **Languages:** Python, SQL
 - **Web Development:** HTML, CSS, Javascript
 - **Databases:** Postgres, Bigquery
 - **DevOps:** Docker
