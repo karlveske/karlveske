@@ -31,7 +31,7 @@ I'm an ex-startup growth, and jack-of-all-trades guy moving into the field of op
 
 ## 🛠️ Projects:
 - **[CNN-vs-Fox-News-2024-US-President-Analysis ](https://github.com/karlveske/CNN-vs-Fox-News-2024-US-President-Analysis):** Compared the headline coverage of CNN vs Fox News at the height of US 2024 president election.
-- 
+  
 - **[DS_Mental_Health_Analysis_And_Prediction]([https://github.com/karlveske/another-project](https://github.com/karlveske/DS_Mental_Health_Analysis_And_Prediction)):** Took part of a Kaggle competition. Analyzed data about mental health and build a ML prediction model. 
 
 ## 🎓 Education:
