@@ -37,9 +37,11 @@ I'm an ex-startup growth, and jack-of-all-trades guy moving into the field of op
 ## 🎓 Education:
 - **Bachelor’s Degree in Computer Science from University of Tartu (2024 - 2027)**
 - **CXL for everything marketing**
+- Many certifications on my [Linkedin](https://www.linkedin.com/in/karl-christofer-veske/)
 
 ## 🏆 Achievements:
-- Many certifications on my [Linkedin](https://www.linkedin.com/in/karl-christofer-veske/)
+- Helped Wynter grow from 10k-200k a month business.
+- Managed to make a living as a solopreneur before that
 
 ![Karl's GitHub stats](https://github-readme-stats.vercel.app/api?username=karlveske&show_icons=true&theme=radical)
 -->
