@@ -13,7 +13,7 @@ I'm an ex-startup growth, and jack-of-all-trades guy moving into the field of op
 - **Databases:** Postgres, Bigquery
 - **DevOps:** Docker
 - **Version Control:** Git, GitHub
-- **Tools**: Tableau, PowerBI, Google Analytics, Google Tag Manager, Webflow, Zapier, Hubspot, Jupyter
+- **Tools**: Tableau, PowerBI, Google Analytics, Google Tag Manager, Webflow, Zapier, Hubspot, Jupyter, Looker, Spoon, dbt, Airflow
 
 ## 🌱 Currently Obsessed with:
 - Data and Information Systems
